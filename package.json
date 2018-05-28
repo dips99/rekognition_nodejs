@@ -1,0 +1,22 @@
+{
+    "dependencies": {
+        "aws-sdk": ">= 2.0.9",
+        "base64-img": "^1.0.4",
+        "bluebird": "^3.5.1",
+        "body-parser": "^1.18.2",
+        "dotenv": "^5.0.1",
+        "express": "^4.16.3",
+        "fs-extra": "^5.0.0",
+        "image-rotate": "^1.0.0",
+        "node-base64-image": "^1.0.4",
+        "node-uuid": "^1.4.8",
+        "sharp": "^0.20.1",
+        "uuid": "^3.2.1"
+    },
+    "devDependencies": {
+        "ws": "3.3.2"
+    },
+    "scripts": {
+        "start": "node expressdownload.js"
+    }
+}
